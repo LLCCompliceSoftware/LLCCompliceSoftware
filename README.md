@@ -1,8 +1,8 @@
-# Hello everyone! 👋
+# Всем привет!
 
-I am a programmer who works with several programming languages, including C++, C and NASM. Currently, I am learning these languages in order to create my own operating system.
+Я системный программист и делаю разные прикольные проекты на C++, C. Сейчас стараюсь сделать свою операционную систему
 
-## Programming languages that I know and am learning:
+## Языки программирования которые я знаю:
 
 - ![Python](https://img.icons8.com/color/48/000000/python--v1.png) Python
 - ![C](https://img.icons8.com/color/48/000000/c-programming.png) C
